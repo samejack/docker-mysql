@@ -1,4 +1,4 @@
-# docker-php5-fpm-nginx
+# docker-mysql
 [![Build Status](https://travis-ci.org/samejack/point-core.svg?branch=master)](https://travis-ci.org/samejack/docker-mysql)
 
 ## Overview
