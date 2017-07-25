@@ -1,4 +1,5 @@
 # docker-php5-fpm-nginx
+[![Build Status](https://travis-ci.org/samejack/point-core.svg?branch=master)](https://travis-ci.org/samejack/docker-mysql)
 
 ## Overview
 This docker image include MySQL 5.5 based-on Ubuntu Server 14.04 LTS.
